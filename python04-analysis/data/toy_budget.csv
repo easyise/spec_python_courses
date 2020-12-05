@@ -1,0 +1,109 @@
+;Div;Account;Type;Month;Amount
+0;IT;System Costs;Cost;apr;364.68
+1;IT;IT Support;Cost;apr;62.27
+2;Finance;Accounting;Cost;apr;78.89
+3;Finance;Billing;Cost;apr;55.81
+4;Adm;Office Adm;Cost;apr;88.94
+5;Air;Gross Margin;Income;apr;717.22
+6;Truck;Gross Margin;Income;apr;674.3
+7;Rail;Gross Margin;Income;apr;886.51
+8;Sea;Gross Margin;Income;apr;1198.25
+9;IT;System Costs;Cost;may;364.68
+10;IT;IT Support;Cost;may;62.27
+11;Finance;Accounting;Cost;may;78.89
+12;Finance;Billing;Cost;may;55.81
+13;Adm;Office Adm;Cost;may;88.94
+14;Air;Gross Margin;Income;may;929.95
+15;Truck;Gross Margin;Income;may;1180.82
+16;Rail;Gross Margin;Income;may;666.54
+17;Sea;Gross Margin;Income;may;876.1
+18;IT;System Costs;Cost;jun;364.68
+19;IT;IT Support;Cost;jun;62.27
+20;Finance;Accounting;Cost;jun;78.89
+21;Finance;Billing;Cost;jun;55.81
+22;Adm;Office Adm;Cost;jun;88.94
+23;Air;Gross Margin;Income;jun;1200.08
+24;Truck;Gross Margin;Income;jun;953.61
+25;Rail;Gross Margin;Income;jun;938.16
+26;Sea;Gross Margin;Income;jun;1048.47
+27;IT;System Costs;Cost;jul;364.68
+28;IT;IT Support;Cost;jul;62.27
+29;Finance;Accounting;Cost;jul;78.89
+30;Finance;Billing;Cost;jul;55.81
+31;Adm;Office Adm;Cost;jul;88.94
+32;Air;Gross Margin;Income;jul;1015.15
+33;Truck;Gross Margin;Income;jul;754.65
+34;Rail;Gross Margin;Income;jul;632.47
+35;Sea;Gross Margin;Income;jul;770.94
+36;IT;System Costs;Cost;aug;364.68
+37;IT;IT Support;Cost;aug;62.27
+38;Finance;Accounting;Cost;aug;78.89
+39;Finance;Billing;Cost;aug;55.81
+40;Adm;Office Adm;Cost;aug;88.94
+41;Air;Gross Margin;Income;aug;569.0
+42;Truck;Gross Margin;Income;aug;1048.67
+43;Rail;Gross Margin;Income;aug;1129.63
+44;Sea;Gross Margin;Income;aug;1116.17
+45;IT;System Costs;Cost;sep;364.68
+46;IT;IT Support;Cost;sep;62.27
+47;Finance;Accounting;Cost;sep;78.89
+48;Finance;Billing;Cost;sep;55.81
+49;Adm;Office Adm;Cost;sep;88.94
+50;Air;Gross Margin;Income;sep;1098.88
+51;Truck;Gross Margin;Income;sep;1132.72
+52;Rail;Gross Margin;Income;sep;972.84
+53;Sea;Gross Margin;Income;sep;458.94
+54;IT;System Costs;Cost;oct;364.68
+55;IT;IT Support;Cost;oct;62.27
+56;Finance;Accounting;Cost;oct;78.89
+57;Finance;Billing;Cost;oct;55.81
+58;Adm;Office Adm;Cost;oct;88.94
+59;Air;Gross Margin;Income;oct;1029.48
+60;Truck;Gross Margin;Income;oct;1172.73
+61;Rail;Gross Margin;Income;oct;1195.15
+62;Sea;Gross Margin;Income;oct;860.3
+63;IT;System Costs;Cost;nov;364.68
+64;IT;IT Support;Cost;nov;62.27
+65;Finance;Accounting;Cost;nov;78.89
+66;Finance;Billing;Cost;nov;55.81
+67;Adm;Office Adm;Cost;nov;88.94
+68;Air;Gross Margin;Income;nov;901.1
+69;Truck;Gross Margin;Income;nov;613.59
+70;Rail;Gross Margin;Income;nov;849.66
+71;Sea;Gross Margin;Income;nov;591.58
+72;IT;System Costs;Cost;dec;364.68
+73;IT;IT Support;Cost;dec;126.27000000000001
+74;Finance;Accounting;Cost;dec;142.89
+75;Finance;Billing;Cost;dec;119.81
+76;Adm;Office Adm;Cost;dec;152.94
+77;Air;Gross Margin;Income;dec;717.91
+78;Truck;Gross Margin;Income;dec;819.19
+79;Rail;Gross Margin;Income;dec;1028.42
+80;Sea;Gross Margin;Income;dec;993.72
+81;IT;System Costs;Cost;jan;364.68
+82;IT;IT Support;Cost;jan;62.27
+83;Finance;Accounting;Cost;jan;78.89
+84;Finance;Billing;Cost;jan;55.81
+85;Adm;Office Adm;Cost;jan;88.94
+86;Air;Gross Margin;Income;jan;338.71
+87;Truck;Gross Margin;Income;jan;1208.87
+88;Rail;Gross Margin;Income;jan;773.51
+89;Sea;Gross Margin;Income;jan;1104.87
+90;IT;System Costs;Cost;feb;364.68
+91;IT;IT Support;Cost;feb;62.27
+92;Finance;Accounting;Cost;feb;78.89
+93;Finance;Billing;Cost;feb;55.81
+94;Adm;Office Adm;Cost;feb;88.94
+95;Air;Gross Margin;Income;feb;1309.62
+96;Truck;Gross Margin;Income;feb;1007.5
+97;Rail;Gross Margin;Income;feb;689.03
+98;Sea;Gross Margin;Income;feb;996.27
+99;IT;System Costs;Cost;mar;364.68
+100;IT;IT Support;Cost;mar;62.27
+101;Finance;Accounting;Cost;mar;78.89
+102;Finance;Billing;Cost;mar;55.81
+103;Adm;Office Adm;Cost;mar;88.94
+104;Air;Gross Margin;Income;mar;1055.67
+105;Truck;Gross Margin;Income;mar;931.48
+106;Rail;Gross Margin;Income;mar;919.21
+107;Sea;Gross Margin;Income;mar;783.35
