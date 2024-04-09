@@ -33,3 +33,10 @@ def plot_decision_regions(X, y, classifier=None, resolution=0.02):
         plt.scatter(x=X[idx,0], y=X[idx,1],
                     alpha=0.8, c=colors[k], marker=markers[k],
                     label=cl, edgecolor='black')
+        
+        
+def plot_with_err(x, data, **kwargs):
+    mu, std = data.mean(1), data.std(1)
+    lines = plt.plot(x, mu, '-', **kwargs)
+    plt.fill_between(x, mu - std, mu + std, edgecolor='none',
+                     facecolor=lines[0].get_color(), alpha=0.2)
