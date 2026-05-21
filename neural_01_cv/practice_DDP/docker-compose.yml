@@ -1,0 +1,25 @@
+services:
+  worker0:
+    build: .
+    environment:
+      RANK: 0
+      WORLD_SIZE: 2
+      MASTER_ADDR: worker0
+      MASTER_PORT: 29500
+    networks:
+      - ddpnet
+
+  worker1:
+    build: .
+    environment:
+      RANK: 1
+      WORLD_SIZE: 2
+      MASTER_ADDR: worker0
+      MASTER_PORT: 29500
+    depends_on:
+      - worker0
+    networks:
+      - ddpnet
+
+networks:
+  ddpnet:
